@@ -1,0 +1,6 @@
+question,response
+"Do you have free Wi-Fi?","Yes, we offer free Wi-Fi throughout the hotel."
+"What time is check-in?","Check-in is available from 3 PM onwards."
+"Do you have a swimming pool?","Yes, we have an outdoor pool open from 8 AM to 10 PM."
+"What are the breakfast hours?","Breakfast is served from 6:30 AM to 10:30 AM."
+"Is parking available?","Yes, we provide free parking for all guests.
